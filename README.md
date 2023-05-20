@@ -1,18 +1,57 @@
-# PortifolioAngular
+# Portfolio em Angular e TypeScript
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
-## Development server
+Este é o repositório do meu projeto de portfólio desenvolvido com Angular e TypeScript. O objetivo deste projeto é exibir uma página que apresenta os projetos que desenvolvi, destacando minhas habilidades e experiências.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+## Tecnologias utilizadas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular  [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
+TypeScript
+HTML
+CSS
 
-## Build
+## Funcionalidades
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Exibição dos projetos: A página principal exibirá uma lista dos projetos que desenvolvi. Cada projeto será apresentado com uma breve descrição e uma imagem ilustrativa.
+
+2. Detalhes do projeto: Ao clicar em um projeto, o usuário será redirecionado para uma página com mais detalhes sobre o projeto selecionado. Serão apresentadas informações como o objetivo do projeto, tecnologias utilizadas, desafios enfrentados e soluções implementadas.
+
+3. Contato: A página também terá uma seção para que os visitantes possam entrar em contato comigo. Será fornecido um formulário de contato onde os usuários poderão enviar mensagens diretamente para o meu e-mail.
+
+
+
+## Como executar o projeto
+
+1. Certifique-se de ter o Angular CLI instalado em sua máquina. Caso não tenha, você pode instalá-lo globalmente executando o seguinte comando:
+
+npm install -g @angular/cli
+
+
+2. Clone este repositório em sua máquina local:
+
+git clone https://github.com/seu-usuario/portfolio-angular.git
+
+
+3. Acesse o diretório do projeto:
+
+cd portfolio-angular
+
+
+4. Instale as dependências do projeto:
+
+npm install
+
+
+5. Inicie o servidor de desenvolvimento:
+
+ng serve
+
+
+6. Abra seu navegador e acesse http://localhost:4200 para visualizar o portfólio.
+
+
+
 
 ## Running unit tests
 
