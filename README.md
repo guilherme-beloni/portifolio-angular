@@ -23,3 +23,54 @@ Este é o repositório do meu projeto de portfólio desenvolvido com Angular e T
 
    ```shell
    npm install -g @angular/cli
+
+2. Clone este repositório em sua máquina local:
+
+   ```shell
+   git clone https://github.com/seu-usuario/portfolio-angular.git
+
+
+3. Acesse o diretório do projeto:
+
+   ```shell
+   cd portfolio-angular
+
+
+4. Instale as dependências do projeto:
+
+   ```shell
+   npm install
+
+
+5. Inicie o servidor de desenvolvimento:
+
+   ```shell
+   ng serve
+
+
+6. Abra seu navegador e acesse http://localhost:4200 para visualizar o portfólio.
+
+
+## Contribuição
+
+Contribuições são bem-vindas! Se você deseja colaborar com este projeto, por favor, siga as etapas abaixo:
+
+1. Faça um fork deste repositório.
+
+2. Crie uma branch para sua nova feature:
+
+   ```shell
+   git checkout -b feature/nome-da-feature
+
+3. Desenvolva sua feature e faça commits das suas alterações:
+   
+   ```shell
+   git commit -m "Descrição das alterações"
+
+4. Faça push para o repositório remoto:
+
+   ```shell
+   git push origin feature/nome-da-feature
+
+5. Abra um pull request neste repositório
+   
